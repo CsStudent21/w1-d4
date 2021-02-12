@@ -17,6 +17,10 @@ h2{
     margin-bottom: 25px;
 }
 
+h3{
+    margin: 0 0 0 15px;
+}
+
 p {
     margin:0 0 0 0;
 }
@@ -71,14 +75,6 @@ img {
     background-color: aliceblue;
 }
 
-.categoryBook {
-    font-weight: bold;
-}
-
-#bookTitle {
-    font-style: italic;
-}
-
 #contact {
     font-weight: bolder;
 }
@@ -95,12 +91,29 @@ html {
     font-size: 3rem;
 }
 
-#categoryBook {
+#categoryBookIT {
     display: inline-block;
     font-size: 2rem;
 }
 
-#titleBook {
+#titleBookIT {
     display: inline-block;
     font-size: 1.5rem;
+}
+
+/* Mondo Libri in Inglese, prova uso EM font-size */
+
+#languageBookEN {
+    display: inline-block;
+    font-size: 3em;
+}
+
+#categoryBookEN {
+    display: inline-block;
+    font-size: 2em;
+}
+
+#titleBookEN {
+    display: inline-block;
+    font-size: 1.5em;
 }
