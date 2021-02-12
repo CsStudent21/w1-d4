@@ -13,10 +13,23 @@ h2{
     border-radius: 100px;
     margin: 25px 10px 25px;
 }
+
 .tableTitle {
     color:darkmagenta;
     margin-top: 25px;
     margin-right: 10px;
     margin-left: 0px;
     margin-bottom: 100px;
+}
+
+#work {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#work td {
+    border: 1px solid black;
+}
+
+#work .header {
+    background-color: aliceblue;
 }
