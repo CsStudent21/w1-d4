@@ -11,11 +11,13 @@ h2{
     padding: 5px;
     border:2px solid seagreen;
     border-radius: 100px;
-    margin: 25px 10px 25px;
+    margin-top:25px;
+    margin-right:10px;
+    margin-left: 0px;
+    margin-bottom: 25px;
 }
 
 .tableTitle {
-    color:darkmagenta;
     margin-top: 25px;
     margin-right: 10px;
     margin-left: 0px;
@@ -26,10 +28,10 @@ h2{
     padding: 1px;
     border: 1px solid black;
     border-collapse: collapse;
-    margin-top: 20px;
+    margin-top: 18px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 14px;
 
 }
 #work td {
@@ -38,4 +40,27 @@ h2{
 
 #work .header {
     background-color: aliceblue;
+}
+
+#education {
+    padding: 1px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 14px;
+}
+
+#education td {
+    border: 1px solid black;
+}
+
+#education .header {
+    background-color: aliceblue;
+}
+
+#categoryBook {
+    font-weight: bold;
+    color:lightcoral;
 }
