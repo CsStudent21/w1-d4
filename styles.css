@@ -1,0 +1,22 @@
+h1 {
+    color: crimson;
+    background-color: aliceblue;
+    padding: 10px;
+    border: 1rem solid royalblue;
+    border-radius: 100px;
+    margin:auto;
+}
+h2{
+    color:royalblue;
+    padding: 5px;
+    border:2px solid seagreen;
+    border-radius: 100px;
+    margin: 25px 10px 25px;
+}
+.tableTitle {
+    color:darkmagenta;
+    margin-top: 25px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+}
