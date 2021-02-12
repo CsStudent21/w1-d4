@@ -17,6 +17,17 @@ h2{
     margin-bottom: 25px;
 }
 
+p {
+    margin:0 0 0 0;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
 .tableTitle {
     margin-top: 25px;
     margin-right: 10px;
@@ -60,7 +71,36 @@ h2{
     background-color: aliceblue;
 }
 
-#categoryBook {
+.categoryBook {
     font-weight: bold;
-    color:lightcoral;
+}
+
+#bookTitle {
+    font-style: italic;
+}
+
+#contact {
+    font-weight: bolder;
+}
+
+/* Fisso la font-size standard 
+html {
+    font-size: 10px;
+}
+*/
+/* Mondo Libri in Italiano, prova uso REM font-size */
+
+#languageBookIT {
+    display: inline-block;
+    font-size: 3rem;
+}
+
+#categoryBook {
+    display: inline-block;
+    font-size: 2rem;
+}
+
+#titleBook {
+    display: inline-block;
+    font-size: 1.5rem;
 }
