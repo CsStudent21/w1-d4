@@ -1,0 +1,28 @@
+/* Gioco con le font-size REM 
+html { 
+    font-size: 16px
+}
+*/
+
+/* Gioco con le font-size EM */
+div {
+    font-size: 12px;
+}
+
+
+
+/* Hierarchy TAG, CLASS, ID */
+p {
+    font-size: 10px;
+    color:red;
+}
+
+.classico {
+    font-size: 2rem;
+    color:green;
+}
+
+#identita {
+    font-size: 2em;
+    color:blue
+} 

@@ -125,3 +125,12 @@ html {
     display: inline-block;
     font-size: 1.5em;
 }
+
+/* Testing Hierarchy among tag,class,id in CSS*/
+
+p {
+    font-size: 10;
+    color: red;
+}
+
+
