@@ -13,16 +13,18 @@ div {
 
 /* Hierarchy TAG, CLASS, ID */
 p {
-    font-size: 10px;
+    font-size: 15px;
     color:red;
+    font-style: italic;
 }
 
 .classico {
-    font-size: 2rem;
+    font-size: 3rem;
     color:green;
 }
 
 #identita {
-    font-size: 2em;
-    color:blue
+    font-size: 3em;
+    color:blue;
+    font-style: normal;
 } 
